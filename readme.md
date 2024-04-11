@@ -17,3 +17,8 @@ Push de archivo locales hacia repo publico en github:
   ```
   git commit -m "primer readme"
   ```
+* Agregar repo remoto:
+
+  ```
+  git remote add origin https://github.com/abelucci/GIT.git
+  ```
