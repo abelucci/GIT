@@ -35,3 +35,8 @@ Clonar repo desde github hacia mi repo local
 * Seleccionar el directorio en donde se va a almacenar.
 * Guardar algún archivo en esta carpeta.
 * Commit y push en source control hacia este repo.
+
+ ![1712797449721.png](./1712797449721.png)
+
+
+ ![1712797469839.png](./1712797469839.png)
