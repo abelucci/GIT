@@ -33,12 +33,11 @@ Clonar repo desde github hacia mi repo local
 * Crear repo en github.
 * Clonar desde VS code la repo correspondiente.
 
-  ![1712797526183.png](./1712797526183.png)
+  ![1712797526183.png](./images/1.png)
 * Seleccionar el directorio en pc local donde se va a almacenar ese repo clonado.
 * Guardar algún archivo en esta carpeta.
 * Commit y push en source control hacia este repo.
 
- ![1712797449721.png](./1712797449721.png)
+![1712797449721.png](./images/2.png)
 
-
- ![1712797469839.png](./1712797469839.png)
+![1712797469839.png](./3.png)
