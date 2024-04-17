@@ -40,4 +40,4 @@ Clonar repo desde github hacia mi repo local
 
 ![1712797449721.png](./images/2.png)
 
-![1712797469839.png](./3.png)
+![1712797469839.png](./images/3.png)
